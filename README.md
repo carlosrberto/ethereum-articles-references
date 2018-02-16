@@ -2,6 +2,7 @@
 
 ## Smart Contracts (Solididy)
 ### Introduction
+- Intro to Smart Contracts - http://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html
 - Basic intro - https://learnxinyminutes.com/docs/solidity/
 - Introduction to Solidity - https://blockgeeks.com/introduction-to-solidity-part-1/
 
