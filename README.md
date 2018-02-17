@@ -1,5 +1,32 @@
 # Ethereum articles and references
 
+## Setup private blockchain
+
+Create account
+```
+geth --datadir ~/.ethereum_private account new
+```
+
+Create private blockchain
+```
+geth --datadir ~/.ethereum_private init ~/dev/genesis.json
+```
+
+Initialize
+```
+geth --fast --cache 512 --ipcpath ~/Library/Ethereum/geth.ipc --networkid 1995 --datadir ~/.ethereum_private
+``` 
+
+Attach terminal
+```
+geth attach ipc_url
+```
+
+Start mining
+```
+geth --fast --cache 512 --mine --minerthreads=1  --ipcpath ~/Library/Ethereum/geth.ipc --networkid 1995 --datadir ~/.ethereum_private
+```
+
 ## geth
 
 ### Private blockchain
