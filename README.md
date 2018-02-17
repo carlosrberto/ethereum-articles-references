@@ -1,5 +1,14 @@
 # Ethereum articles and references
 
+## geth
+
+### Private blockchain
+- Installing `geth` - https://ethereum.org/cli
+- Genesis block - https://github.com/ethereum/go-ethereum/wiki/Private-network
+- Adding ether to account - https://ethereum.stackexchange.com/questions/125/how-do-i-set-up-a-private-ethereum-network/16306#16306
+- Sending ether - https://github.com/chafey/ethereum-private-network#send-ether-from-one-account-to-another
+- Private miner - https://github.com/ethereum/go-ethereum/wiki/Private-network#running-a-private-miner
+
 ## Smart Contracts (Solididy)
 ### Introduction
 - Intro to Smart Contracts - http://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html
