@@ -36,15 +36,20 @@ geth --fast --cache 512 --mine --minerthreads=1  --ipcpath ~/Library/Ethereum/ge
 - Sending ether - https://github.com/chafey/ethereum-private-network#send-ether-from-one-account-to-another
 - Private miner - https://github.com/ethereum/go-ethereum/wiki/Private-network#running-a-private-miner
 
+## Ethereum concepts
+[What is the "Gas" in Ethereum?](https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/)
+
 ## Smart Contracts (Solididy)
 ### Introduction
 - Intro to Smart Contracts - http://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html
 - Basic intro - https://learnxinyminutes.com/docs/solidity/
 - Introduction to Solidity - https://blockgeeks.com/introduction-to-solidity-part-1/
 - Learning Solidity : Tutorial 1 The Basics - https://www.youtube.com/watch?v=v_hU0jPtLto&t=5s
+- [Build Your First Ethereum Smart Contract](https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b)
 
 ### Examples
 - https://github.com/mbeaudru/ethereum-todolist/blob/master/contracts/TodoList.sol
 
 ### Tools  
 - Online compiler (JSFiddle like) https://ethfiddle.com/
+- Remix - Solidity IDE - https://remix.ethereum.org/
