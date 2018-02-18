@@ -1,5 +1,8 @@
 # Ethereum articles and references
 
+## Installation instructions for Mac
+- https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac
+
 ## Setup private blockchain
 
 Create account
@@ -46,6 +49,7 @@ geth --fast --cache 512 --mine --minerthreads=1  --ipcpath ~/Library/Ethereum/ge
 - Introduction to Solidity - https://blockgeeks.com/introduction-to-solidity-part-1/
 - Learning Solidity : Tutorial 1 The Basics - https://www.youtube.com/watch?v=v_hU0jPtLto&t=5s
 - [Build Your First Ethereum Smart Contract](https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b)
+- [First Contract Tutorial](https://github.com/ethereum/go-ethereum/wiki/Contract-Tutorial)
 
 ### Examples
 - https://github.com/mbeaudru/ethereum-todolist/blob/master/contracts/TodoList.sol
