@@ -40,7 +40,11 @@ geth --fast --cache 512 --mine --minerthreads=1  --ipcpath ~/Library/Ethereum/ge
 - Private miner - https://github.com/ethereum/go-ethereum/wiki/Private-network#running-a-private-miner
 
 ## Ethereum concepts
-[What is the "Gas" in Ethereum?](https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/)
+- [What is the "Gas" in Ethereum?](https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/)
+
+## Ethereum tutorials
+- [Create your own Crypto Currency with Ethereum](https://www.ethereum.org/token)
+
 
 ## Smart Contracts (Solididy)
 ### Introduction
