@@ -41,6 +41,7 @@ geth --fast --cache 512 --mine --minerthreads=1  --ipcpath ~/Library/Ethereum/ge
 
 ## Ethereum concepts
 - [What is the "Gas" in Ethereum?](https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/)
+- [What is meant by the term "gas"?](https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas)
 
 ## Ethereum tutorials
 - [Create your own Crypto Currency with Ethereum](https://www.ethereum.org/token)
