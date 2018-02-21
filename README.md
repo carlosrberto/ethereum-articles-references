@@ -32,6 +32,8 @@ geth --fast --cache 512 --mine --minerthreads=1  --ipcpath ~/Library/Ethereum/ge
 
 ## Ethereum concepts
 - [What is Ethereum](http://ethdocs.org/en/latest/introduction/what-is-ethereum.html)
+- [Ethereum wallet vs account,.. what's the difference?](https://www.reddit.com/r/ethereum/comments/41wj26/ethereum_wallet_vs_account_whats_the_difference/)
+- [What's the difference between Accounts and Wallets in Mist?](https://ethereum.stackexchange.com/questions/212/whats-the-difference-between-accounts-and-wallets-in-mist)
 - [What is the "Gas" in Ethereum?](https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/)
 - [What is meant by the term "gas"?](https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas)
 
