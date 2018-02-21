@@ -25,10 +25,15 @@ Attach terminal
 geth attach ipc_url
 ```
 
-Start mining
+Start mining in your private network
 ```
 geth --fast --cache 512 --mine --minerthreads=1  --ipcpath ~/Library/Ethereum/geth.ipc --networkid 1995 --datadir ~/.ethereum_private
 ```
+
+## Ethereum concepts
+- [What is Ethereum](http://ethdocs.org/en/latest/introduction/what-is-ethereum.html)
+- [What is the "Gas" in Ethereum?](https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/)
+- [What is meant by the term "gas"?](https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas)
 
 ## geth
 
@@ -38,10 +43,6 @@ geth --fast --cache 512 --mine --minerthreads=1  --ipcpath ~/Library/Ethereum/ge
 - Adding ether to account - https://ethereum.stackexchange.com/questions/125/how-do-i-set-up-a-private-ethereum-network/16306#16306
 - Sending ether - https://github.com/chafey/ethereum-private-network#send-ether-from-one-account-to-another
 - Private miner - https://github.com/ethereum/go-ethereum/wiki/Private-network#running-a-private-miner
-
-## Ethereum concepts
-- [What is the "Gas" in Ethereum?](https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/)
-- [What is meant by the term "gas"?](https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas)
 
 ## Ethereum tutorials
 - [Create your own Crypto Currency with Ethereum](https://www.ethereum.org/token)
