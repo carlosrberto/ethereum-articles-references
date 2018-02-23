@@ -45,6 +45,7 @@ geth --fast --cache 512 --mine --minerthreads=1  --ipcpath ~/Library/Ethereum/ge
 - Adding ether to account - https://ethereum.stackexchange.com/questions/125/how-do-i-set-up-a-private-ethereum-network/16306#16306
 - Sending ether - https://github.com/chafey/ethereum-private-network#send-ether-from-one-account-to-another
 - Private miner - https://github.com/ethereum/go-ethereum/wiki/Private-network#running-a-private-miner
+- [Setting up private network or local cluster](https://github.com/ethereum/go-ethereum/wiki/Setting-up-private-network-or-local-cluster)
 
 ## Ethereum tutorials
 - [Create your own Crypto Currency with Ethereum](https://www.ethereum.org/token)
