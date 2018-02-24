@@ -66,3 +66,12 @@ geth --fast --cache 512 --mine --minerthreads=1  --ipcpath ~/Library/Ethereum/ge
 ### Tools  
 - Online compiler (JSFiddle like) https://ethfiddle.com/
 - Remix - Solidity IDE - https://remix.ethereum.org/
+
+## Serverless hosting
+### Swarm
+- Swarm - https://swarm-guide.readthedocs.io/en/latest/introduction.html#
+- Swarm Docs - http://ethdocs.org/en/latest/introduction/what-is-ethereum.html
+- Using swarm from the command line - https://swarm-guide.readthedocs.io/en/latest/usage.html#using-swarm-from-the-command-line
+
+### IFPS
+- IFPS - https://ipfs.io/
